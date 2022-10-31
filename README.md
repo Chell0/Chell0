@@ -31,13 +31,6 @@
 
 ---
 
-### 📕 Lastest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 📊 Stats
 
 ![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=cobalt2)
