@@ -1,18 +1,25 @@
-# 👋 Machel Odhiambo!!!
+### Hello there 👋, I'm Machel Odhiambo aka **Chell0**
 
-**`Digital Craftsman (Developer)`**
+## I'm a Self-taught Software Developer!!
 
-I'm a tech-savvy self-taught software developer who strives to own his own learning with a desire to grow this craft while contributing to the community and also passing on what I have learned to others out there.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Finish **ALL** unfinished projects
+- ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
-<p align="left">
-    <a href="https://github.com/Chell0?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Chell0?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-    </a>
-</p>
+### Connect with me on:
+
+[![website](./img/twitter-light.svg)](https://twitter.com/CodeWithChelloh#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/CodeWithChelloh#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabrielmachelo/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabrielmachelo/#gh-dark-mode-only)
 
 ---
 
 ### 🧰 Languages and Tools
+
+<br />
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -23,12 +30,14 @@ I'm a tech-savvy self-taught software developer who strives to own his own learn
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+<br />
 <br />
 
-#
+---
 
 ### 📊 Stats
 
-![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=neon_blurange)
+![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=cobalt2)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Chell0&theme=neon_blurange&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Chell0&theme=cobalt2&border_radius=4.5) -->
