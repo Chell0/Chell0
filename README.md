@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning everything 🤣
 - 👯 I looking forward to collaborate with other developers
-- 🥅 2022 Goals: Work **ALL** unfinished projects
+- 🥅 2022 Goals: Work on **ALL** unfinished projects
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
 ---
@@ -32,6 +32,7 @@
 ---
 
 ### 📕 Lastest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
