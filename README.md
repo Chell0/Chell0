@@ -1,15 +1,15 @@
 ## Hello there 👋
 
-### A Self-taught Software Developer!!
+### I'm a Self-taught Software Developer
 
-- 🌱 currently learning everything 🤣
-- 👯 looking forward to collaborate with other developers
-- 🥅 2022 Goals: Finish **ALL** unfinished projects
+- 🌱 I'm currently learning everything 🤣
+- 👯 I looking forward to collaborate with other developers
+- 🥅 2022 Goals: Work **ALL** unfinished projects
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
 ---
 
-### Connect with me on:
+### Connect with me on
 
 [@Chell0](machelgabriel@gmail.com)
 
@@ -28,6 +28,12 @@
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <br />
 <br />
+
+---
+
+### 📕 Lastest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
