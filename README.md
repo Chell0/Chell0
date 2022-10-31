@@ -1,25 +1,21 @@
-### Hello there 👋, I'm Machel Odhiambo aka **Chell0**
+## Hello there 👋
 
-## I'm a Self-taught Software Developer!!
+### A Self-taught Software Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
+- 🌱 currently learning everything 🤣
+- 👯 looking forward to collaborate with other developers
 - 🥅 2022 Goals: Finish **ALL** unfinished projects
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
+---
+
 ### Connect with me on:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/CodeWithChelloh#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/CodeWithChelloh#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/gabrielmachelo/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/gabrielmachelo/#gh-dark-mode-only)
+[@Chell0](machelgabriel@gmail.com)
 
 ---
 
 ### 🧰 Languages and Tools
-
-<br />
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -30,7 +26,6 @@
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Postgresql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-
 <br />
 <br />
 
