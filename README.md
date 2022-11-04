@@ -3,8 +3,7 @@
 ### I'm a Self-taught Software Developer
 
 - 🌱 I'm currently learning everything 🤣
-- 👯 I looking forward to collaborate with other developers
-- 🥅 2022 Goals: Work on **ALL** unfinished projects
+- 👯 I looking forward to collaborate with other developers 
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
 ---
