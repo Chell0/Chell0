@@ -2,7 +2,7 @@
 
 ### I'm a Self-taught Software Developer
 
-- 🌱 I'm sharpening skills on python and postgres.
+- 🌱 I love working with python and postgres.
 - 👯 I looking forward to collaborate with other developers 
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
