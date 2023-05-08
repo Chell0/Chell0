@@ -2,9 +2,9 @@
 
 ### I'm a Self-taught Software Developer
 
-- 🌱 I love working with python and postgres.
-- 👯 I looking forward to collaborate with other developers 
-- ⚡ Fun fact: I love to watch and play football, cycle and gaming
+- 🌱 I love working with python, javascript, html, css and postgres.
+- 👯 I am looking forward to collaborate with other developers 
+- ⚡ Fun fact: I love to watch and play football, cycling and gaming
 
 ---
 
