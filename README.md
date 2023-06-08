@@ -1,10 +1,10 @@
-## Hello there 👋
+## Hi there 👋
 
 ### I'm a Self-taught Software Developer
 
-- 🌱 I'm currently learning everything 🤣
-- 👯 I looking forward to collaborate with other developers
-- 🥅 2022 Goals: Work on **ALL** unfinished projects
+- 🌱 I love learning 😎
+- 👯 I look forward to collaborate with other developers
+- 🎯 To grow my skills everyday 
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
 ---
@@ -35,4 +35,11 @@
 
 ![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=cobalt2)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Chell0&theme=cobalt2&border_radius=4.5) -->
+<p align="center">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chell0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Chell0" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Chell0" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chell0&theme=highcontrast&hide_border=true" alt="Chell0" />
+</p>
+
+<!-- START_SECTION:activity -->
+<!-- END_SECTION:activity -->
