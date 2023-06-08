@@ -16,15 +16,15 @@
 - 🚴 I also love cycling and exploring the outdoors.
 - 🎮 Gaming is another hobby of mine that allows me to unwind and connect with friends.
 
-## Connect with me on
+## Connect
 
-- Feel free to reach out to me through the LinkedIn, email, or Twitter badges above to connect or discuss any exciting opportunities.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachelo/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelgabriel@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/CodeWithChelloh)
 
-Happy coding! 😄
+- Feel free to reach out to me through the LinkedIn, email, or Twitter badges above to connect or discuss any exciting opportunities. Happy coding! 😄
 
-
----
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
