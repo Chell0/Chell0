@@ -45,8 +45,57 @@
 
 ### Top Languages Used
 
-![Chell0's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Chell0&show_icons=true&theme=gruvbox&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)
+<!-- Add the script tag for Highcharts -->
+<script src="https://code.highcharts.com/highcharts.js"></script>
 
+<!-- Add a container for the Highchart -->
+<div id="top-languages-chart"></div>
+
+<!-- Add a script to fetch the data and create the Highchart -->
+<script>
+  fetch('https://api.github.com/users/Chell0/repos?per_page=100')
+    .then(response => response.json())
+    .then(data => {
+      const languages = data.map(repo => repo.language);
+      const languageCounts = languages.reduce((counts, language) => {
+        counts[language] = (counts[language] || 0) + 1;
+        return counts;
+      }, {});
+
+      const chartData = Object.entries(languageCounts).map(([language, count]) => ({
+        name: language || 'Unknown',
+        y: count,
+      }));
+
+      Highcharts.chart('top-languages-chart', {
+        chart: {
+          type: 'column',
+          backgroundColor: 'transparent',
+        },
+        title: {
+          text: 'Top Languages',
+        },
+        xAxis: {
+          type: 'category',
+          title: {
+            text: 'Language',
+          },
+        },
+        yAxis: {
+          title: {
+            text: 'Number of Repositories',
+          },
+        },
+        series: [
+          {
+            name: 'Repositories',
+            data: chartData,
+            colorByPoint: true,
+          },
+        ],
+      });
+    });
+</script>
 
 
 <!-- START_SECTION:activity -->
