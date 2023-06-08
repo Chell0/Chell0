@@ -53,7 +53,7 @@
 
 <!-- Add a script to fetch the data and create the Highchart -->
 <script>
-  fetch('https://api.github.com/users/Chell0/repos?per_page=100')
+  fetch('https://api.github.com/Chell0/Chell0/repos?per_page=100')
     .then(response => response.json())
     .then(data => {
       const languages = data.map(repo => repo.language);
