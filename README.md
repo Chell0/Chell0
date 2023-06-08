@@ -35,13 +35,13 @@
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 ## 📊 Data
-### Stats & Streak
+### Streak
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=gruvbox" alt="Chell0's GitHub Stats" />
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chell0&show_icons=true&theme=gruvbox" alt="Chell0's GitHub Streak" />
-</div>
+![Chell0's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chell0&show_icons=true&theme=gruvbox)
 
+### Stats
+
+![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=gruvbox)
 
 ### Top Languages Used
 
