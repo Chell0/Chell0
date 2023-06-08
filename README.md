@@ -7,8 +7,6 @@
 - 🎯 To grow my skills everyday 
 - ⚡ Fun fact: I love to watch and play football, cycle and gaming
 
----
-
 ### Connect with me on
 
 [@Chell0](machelgabriel@gmail.com)
