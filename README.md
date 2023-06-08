@@ -34,15 +34,20 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-### 📊 Stats
+## 📊 Data
+### Stats & Streak
 
-![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=cobalt2)
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=gruvbox" alt="Chell0's GitHub Stats" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Chell0&show_icons=true&theme=gruvbox" alt="Chell0's GitHub Streak" />
+</div>
 
-<p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chell0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="Chell0" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Chell0" />
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chell0&theme=highcontrast&hide_border=true" alt="Chell0" />
-</p>
+
+### Top Languages Used
+
+![Chell0's Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Chell0&show_icons=true&theme=gruvbox&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true)
+
+
 
 <!-- START_SECTION:activity -->
 <!-- END_SECTION:activity -->
