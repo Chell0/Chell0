@@ -1,18 +1,29 @@
-## Hi there 👋
+# Hi there 👋
 
-### I'm a Self-taught Software Developer
+## About Me
 
-- 🌱 I love learning 😎
-- 👯 I look forward to collaborate with other developers
-- 🎯 To grow my skills everyday 
-- ⚡ Fun fact: I love to watch and play football, cycle and gaming
+- I'm a self-taught software developer passionate about learning and growing my skills every day. I enjoy tackling new challenges and collaborating with other developers.
 
-### Connect with me on
+## Interests
 
-[@Chell0](machelgabriel@gmail.com)
+- 🌱 I love learning and exploring new technologies and programming languages.
+- 👯 I look forward to collaborating on open-source projects and learning from the community.
+- 🎯 My goal is to continuously improve my skills and stay up-to-date with industry trends.
+
+## Hobbies
+
+- ⚡ In my free time, I enjoy watching and playing football (soccer).
+- 🚴 I also love cycling and exploring the outdoors.
+- 🎮 Gaming is another hobby of mine that allows me to unwind and connect with friends.
+
+## Connect with me on
+
+- Feel free to reach out to me through the LinkedIn, email, or Twitter badges above to connect or discuss any exciting opportunities.
+
+Happy coding! 😄
+
 
 ---
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
