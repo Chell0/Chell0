@@ -46,7 +46,3 @@
 ### Languages Used
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chell0&layout=compact&card_width=445&langs_count=10&theme=gruvbox&show_border=true&custom_title=Top%20Languages" alt="Top Languages Pie Chart" />
-
-
-<!-- START_SECTION:activity -->
-<!-- END_SECTION:activity -->
