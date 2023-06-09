@@ -15,3 +15,7 @@ jobs:
         uses: Chell0/github-update-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          ref: "main"
+          excludeActivity: '["WatchEvent"]'
+          excludeRepo: '["Chell0/Chell0"]'
