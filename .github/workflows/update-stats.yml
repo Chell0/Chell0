@@ -1,21 +1,22 @@
-name: Update GitHub Profile README
+name: Update GitHub Stats
 on:
   push:
     branches:
       - main
   schedule:
-    - cron: '*/30 * * * *' # Run every 30 minutes
-  workflow_dispatch:
+    - cron: "0 0 * * *"
+
 
 jobs:
-  build:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Update GitHub Profile README
-        uses: Chell0/github-update-readme@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Stats
+        uses: lowlighter/metrics@v4
         with:
-          ref: "main"
-          excludeActivity: '["WatchEvent"]'
-          excludeRepo: '["Chell0/Chell0"]'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Chell0
+          config: .github/metrics.yml
