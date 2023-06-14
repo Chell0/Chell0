@@ -33,3 +33,16 @@
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+
+## 📊 Data
+### Streak
+
+![Chell0's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chell0&show_icons=true&theme=gruvbox)
+
+### Stats
+
+![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=gruvbox)
+
+### Languages Used
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chell0&layout=compact&card_width=445&langs_count=10&theme=gruvbox&show_border=true&custom_title=Top%20Languages" alt="Top Languages Pie Chart" />
