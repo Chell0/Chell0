@@ -46,3 +46,6 @@
 ### Languages Used
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chell0&layout=pie&theme=gruvbox&show_border=true)](https://github.com/Chell0/github-readme-stats)
+
+### Wakatime Report
+[![Chell0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chell0&theme=gruvbox&show_border=true)](https://github.com/Chell0/github-readme-stats)
