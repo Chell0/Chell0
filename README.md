@@ -4,7 +4,7 @@
 
 ## About Me
 - With a background in warehouse and distribution management, and operations training. Skilled in streamlining 
-  processes, optimizing workflows, and leveraging technology to drive efficiency and growth. My passionate lies in
+  processes, optimize workflows, and leverage technology to drive efficiency and growth. My passion lies in
   developing innovative solutions and applying technical expertise to solve real-world challenges.
 
 ## Technical Skills 🛠️
@@ -29,7 +29,8 @@ You can view them [here](https://chell0.github.io/#).
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelgabriel@gmail.com)
 -  [![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/CodeWithChelloh)
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+I’m looking forward to collaborate on projects that are at the intersection of technology and social good. Let’s 
+connect! 🌍
 
 ## 📊 Data
 ### Streak
