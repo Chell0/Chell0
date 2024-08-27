@@ -17,7 +17,7 @@
 ## Key Projects 📚
 - **Coming Soon ...**
 
-You can view them [here](https://chell0.github.io/#).
+[//]: # (You can view them [here]&#40;https://chell0.github.io/#&#41;.)
 
 ## Professional Goals 🚀
 - **Career Development:** Focused on making a career in software development, specifically in roles that leverage my 
@@ -41,9 +41,12 @@ connect! 🌍
 
 ![Chell0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chell0&show_icons=true&theme=gruvbox)
 
-### Languages Used
+[//]: # (### Languages Used)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chell0&layout=pie&theme=gruvbox&show_border=true)](https://github.com/Chell0/github-readme-stats)
+[//]: # ()
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Chell0&layout=pie&theme=gruvbox&show_border=true&#41;]&#40;https://github.com/Chell0/github-readme-stats&#41;)
 
-### Wakatime Report
-[![Chell0's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Chell0&theme=gruvbox&show_border=true)](https://github.com/Chell0/github-readme-stats)
+[//]: # ()
+[//]: # (### Wakatime Report)
+
+[//]: # ([![Chell0's wakatime stats]&#40;https://github-readme-stats.vercel.app/api/wakatime?username=Chell0&theme=gruvbox&show_border=true&#41;]&#40;https://github.com/Chell0/github-readme-stats&#41;)
