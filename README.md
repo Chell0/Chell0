@@ -1,38 +1,35 @@
 # Hi there 👋
+- I'm Machel Odhiambo! A software engineer focused on harnessing 
+  technology to make significant impacts in the tech industry and beyond.
 
 ## About Me
+- With a background in warehouse and distribution management, and operations training. Skilled in streamlining 
+  processes, optimizing workflows, and leveraging technology to drive efficiency and growth. My passionate lies in
+  developing innovative solutions and applying technical expertise to solve real-world challenges.
 
-- I'm a self-taught software developer passionate about learning and growing my skills every day. I enjoy tackling new challenges and collaborating with other developers.
+## Technical Skills 🛠️
+- **Languages:** JavaScript, TypeScript, Python
+- **Frameworks & Libraries:** React, Next.js, Node.js, Django, FastAPI
+- **Database:** Postgresql, MongoDB, Graphql
+- **📊 Data Analysis & Visualization:** Excel
+- **🧰 Tools & Platforms:** GitHub, VSCode, Figma, Postman
 
-## Interests
+## Key Projects 📚
+- **Coming Soon ...**
 
-- 🌱 I love learning and exploring new technologies and programming languages.
-- 👯 I look forward to collaborating on open-source projects and learning from the community.
-- 🎯 My goal is to continuously improve my skills and stay up-to-date with industry trends.
+You can view them [here](https://chell0.github.io/#).
 
-## Hobbies
+## Professional Goals 🚀
+- **Career Development:** Focused on making a career in software development, specifically in roles that leverage my 
+  technical skills in building impactful tech solutions.
+- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
 
-- ⚡ In my free time, I enjoy watching and playing football (soccer).
-- 🚴 I also love cycling and exploring the outdoors.
-- 🎮 Gaming is another hobby of mine that allows me to unwind and connect with friends.
+## Connect with Me 📬
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachelo/)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelgabriel@gmail.com)
+-  [![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/CodeWithChelloh)
 
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachelo/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelgabriel@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/CodeWithChelloh)
-
-- Feel free to reach out to me through the LinkedIn, email, or Twitter badges above to connect or discuss any exciting opportunities. Happy coding! 😄
-
-## 🧰 Tools
-
-[![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![Shell](https://img.shields.io/badge/-Shell-FFD500?style=flat&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat&logo=gnu-emacs&logoColor=white)](https://www.gnu.org/software/emacs/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
 
 ## 📊 Data
 ### Streak
