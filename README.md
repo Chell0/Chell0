@@ -4,7 +4,7 @@
 
 ## About Me
 
-- I tried web development got took a break but now am back with intention to learn, build and grow.
+- I tried web development, took a break, now am **BACK** with a deliberate intention to learn, build and grow.
 
 ## Technical Skills 🛠️
 
