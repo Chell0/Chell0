@@ -29,7 +29,7 @@
 ## Connect with Me 📬
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachelo/)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelgabriel@gmail.com)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelodhiambo@gmail.com)
 - [![X](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/CodeWithChelloh)
 
 I’m looking forward to collaborate on projects that are at the intersection of technology and social good. Let’s
