@@ -8,11 +8,11 @@
 
 ## Technical Skills 🛠️
 
-- **Languages:** JavaScript, TypeScript, Python
-- **Frameworks & Libraries:** React, Next.js, Django, Tailwind
-- **Database:** Postgresql, MongoDB
+- **Languages:** TypeScript, Python
+- **Frameworks & Libraries:** React, Next.js, Tailwind
+- **Database:** Postgresql
 - **📊 Data Analysis & Visualization:** Excel
-- **🧰 Tools & Platforms:** GitHub, VSCode, Figma, Postman
+- **🧰 Tools & Platforms:** GitHub, VSCode, Figma
 
 ## Key Projects 📚
 
