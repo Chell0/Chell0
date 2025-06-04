@@ -4,7 +4,7 @@
 
 ## About Me
 
--
+- I specialize in both frontend and backend development, with a keen eye for detail. I thrive in dynamic environments and love learning new technologies to stay at the forefront of the industry.
 
 ## Technical Skills 🛠️
 
