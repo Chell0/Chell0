@@ -1,10 +1,10 @@
 # Hi there 👋
 
-- I'm Machel Odhiambo! I looove software development from design, features and hardware, to be specific iOS.
+- I'm Machel Odhiambo! A dedicated software engineer with a strong passion for building innovative and user-friendly applications. My journey in tech began with a fascination for how code can solve real-world problems and create impactful digital experiences.
 
 ## About Me
 
-- I tried web development, took a break, now am **BACK** with a deliberate intention to learn, build and grow.
+-
 
 ## Technical Skills 🛠️
 
