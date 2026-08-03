@@ -26,7 +26,7 @@
 - [Personal Web Portfolio](https://machels-port.vercel.app)
 - [Agency Website](https://kazifiti.com)
 - [A Blog Website](https://machtbewusst-hamburg.de)
-- [Surveyor Web Portfolio](https://charles-ochieng.vercel.app)
+- [Surveyor Web Portfolio](https://surveyor-portfolio.machelgabriel.workers.dev)
 
 ---
 
