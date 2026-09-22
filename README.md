@@ -1,23 +1,23 @@
 # Hi there 👋
 
-- I'm Machel Odhiambo! A dedicated software engineer with a strong passion for building innovative and user-friendly applications. My journey in tech began with a fascination for how code can solve real-world problems and create impactful digital experiences.
+- I'm Machel Odhiambo! A dedicated software engineer with a strong passion for building robust, well-architectured backend systems. My journey in tech began with a fascination for how code can solve real-world problems and create impactful digital experiences.
 
 ---
 
 ## About Me
 
-- I specialize in both frontend and backend development, with a keen eye for detail. I thrive in dynamic environments and love learning new technologies to stay at the forefront of the industry.
+- I'm currently focused on backend development, building a strong foundation in Java and transitioning into Kotlin as my primary language, paired with PostgreSQL for data-driven applications. I care about writing clean, maintainable server-side code and understanding systems deeply rather than just shipping features. I also bring frontend and full-stack experience from earlier projects, which helps me work effectively across the whole stack when needed.
 
 ---
 
 ## Technical Skills 🛠️
 
-- **Languages:** TypeScript, Python
-- **Frameworks & Libraries:** React, Next.js, Tailwind
-- **CMS:** Sanity
-- **Database:** Postgresql
-- **📊 Data Analysis & Visualization:** Excel
-- **🧰 Tools & Platforms:** Git, GitHub, VSCode, Figma
+- **Backend:** Java, Kotlin, Spring Boot
+- **Databases:** PostgreSQL, MSSQL
+- **APIs:** REST, HTTP fundamentals
+- **Frontend/Full-Stack:** TypeScript, JavaScript, React, Next.js, CSS/TailwindCSS
+- **Other Languages:** Python (FastAPI)
+- **🧰 Tools & Platforms:** Git, GitHub, Docker, VSCode, Intelli J
 
 ---
 
@@ -32,17 +32,14 @@
 
 ## Professional Goals 🚀
 
-- **Career Development:** Focused on making a career in software development, specifically in roles that leverage my
-  technical skills in building impactful tech solutions.
-- **Continuous Learning:** Committed to ongoing professional development by staying updated with the latest tech trends and advancing my coding skills. 📈
+- **Career Development:** Focused on landing a corporate Software Engineer role, with a particular focus on backend engineering using Java/Kotlin and PostgreSQL.
+- **Continuous Learning:** Currently deep in a hands-on Java → Kotlin backend learning path, building real projects alongside the fundamentals of SQL, HTTP, REST APIs, and database design. 📈
 
 ---
 
 ## Connect with Me 📬
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmachelo/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:machelodhiambo@gmail.com)
-- [![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=X&logoColor=white)](https://x.com/CodeWithChelloh)
 
-I’m looking forward to collaborate on projects that are at the intersection of technology and social good. Let’s
+I'm looking forward to collaborating on projects that are at the intersection of technology and social good. Let's
 connect! 🌍
